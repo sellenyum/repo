@@ -1,0 +1,7 @@
+Name		Color		Weight		Leigth		Speed		Acceleration		Scars		Life		Nationality		Wishes		Teeth		Voracity		Hungry
+15 0.6 false 30 0.6 false 
+0 0.6 false 
+0 0.6 false 
+Biban3 cenusiu 0.5 35.0 110 7 0.9 true 
+Biban4 cenusiu 0.5 35.0 110 7 0.9 true 
+nj 0 0.0 0.0 0 0 0.0 false kk 10 
